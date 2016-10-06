@@ -1,0 +1,1 @@
+Statistic Vowel:Enter a string to count the number of vowels.More complex points is ,then statistics out the number of each vowel.
